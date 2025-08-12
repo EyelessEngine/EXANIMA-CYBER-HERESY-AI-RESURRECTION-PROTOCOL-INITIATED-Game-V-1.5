@@ -1,7 +1,5 @@
 # EXANIMA: Cyber Heresy - Cyberpunk Gothic FPS
 
-![Level 1 Map](mapa_nivel1.png)
-
 EXANIMA es un FPS cyberpunk-gótico inspirado en DOOM, desarrollado con React, TypeScript y Vite. El juego incluye mecánicas avanzadas como wall-run, hackeo, combate contra enemigos biomecánicos y exploración de niveles detallados.
 
 ## Características
